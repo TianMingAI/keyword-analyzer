@@ -173,7 +173,7 @@
                 </div>
                 <div class="rounded-2xl bg-dark-medium-blue p-4">
                   <span class="font-bold text-white">2. Score</span>
-                  <p class="mt-2 leading-6">score opportunities by volume, CPC, and KD.</p>
+                  <p class="mt-2 leading-6">Rank opportunities by volume, CPC, and KD.</p>
                 </div>
                 <div class="rounded-2xl bg-dark-medium-blue p-4">
                   <span class="font-bold text-white">3. Ship</span>
