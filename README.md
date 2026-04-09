@@ -103,7 +103,7 @@ npx wrangler pages deploy dist --project-name keyword-analyzer
 - `static/sitemap.xml`
 - `static/robots.txt`
 
-默认 canonical URL 暂设为 `https://keyword-analyzer.pages.dev/`。
+当前 Cloudflare Pages 默认 URL：`https://keyword-analyzer-em3.pages.dev/`。
 
 如果你使用自定义域名，请同步更新：
 

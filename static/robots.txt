@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://keyword-analyzer.pages.dev/sitemap.xml
+Sitemap: https://keyword-analyzer-em3.pages.dev/sitemap.xml
